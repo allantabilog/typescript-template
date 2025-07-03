@@ -2,3 +2,5 @@ This project is a working example of how to setup a Node.js project with Typescr
 See the package.json and tsconfig.json
 Also N.B. to run anything, use npx tsx (see package.json script for dev)
 Also ensure that babel.config has extension .cjs instead of .js, otherwise jest doesn't work.
+
+Test commit 1
